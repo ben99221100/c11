@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(lightblue, lightpink);
+    min-height: 100vh;
+}
+
+button {
+    background: linear-gradient(pink, lightblue);
+    font-size: 25px;
+}
